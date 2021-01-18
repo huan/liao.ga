@@ -1,6 +1,6 @@
 # liao.ga
 
-尬聊 <https://liao.ga>
+尬聊助手 <https://liao.ga>
 
 ## Resources
 
