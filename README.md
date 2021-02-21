@@ -8,7 +8,7 @@
 - [豆瓣糊弄学小组：姐妹们 还有类似的聊天模板吗？](https://www.douban.com/group/topic/206974214/)
 - [This Easy 4-Step Conversation Technique Helps Even The Shyest Introverts Talk To New People](https://thesmartlocal.com/read/conversation-tips/)
 - [寒雨恋爱学](http://400abc.cn)
-- [【Chic恋爱说】不敢给喜欢的小哥哥发微信怎么办？| 来聊聊“主动”这件事](https://mp.weixin.qq.com/s/hXFMClgYd_4-KQ-Pw4usng)
+- [【Chic恋爱说】不敢给喜欢的小哥哥发微信怎么办？ - 来聊聊“主动”这件事](https://mp.weixin.qq.com/s/hXFMClgYd_4-KQ-Pw4usng)
 - [PUA头部账号“浪迹情感”被封，两年前融资BP曝光](https://mp.weixin.qq.com/s/KwcVKwlsvjXHOchz8I0O4w)
 - [百合网创始人慕言为“脱单大学”招聘，90秒阐述笑坏李响张](https://mp.weixin.qq.com/s/KwcVKwlsvjXHOchz8I0O4w)
 - [让输入更智能：搜狗输入法发布业内首个AI助手](https://www.jiqizhixin.com/articles/2019-08-19-19)
