@@ -16,3 +16,8 @@
 - [The first educational conference on sex SEX.Prostir was held in a public talk format](https://www.facebook.com/notes/1260112397689926/)
 - [This Easy 4-Step Conversation Technique Helps Even The Shyest Introverts Talk To New People](https://thesmartlocal.com/read/conversation-tips/)
 - [吴恩达首款产品Woebot现已推出，到底用了多难的AI技术？](https://mp.weixin.qq.com/s/jswwAAR1d0MToNbyRKWiOw)
+
+## GalGame
+
+- [GalGame](https://baike.baidu.com/item/GalGame/423361)
+- [好感度是游戏中常见的属性，表示该角色对玩家操纵角色的好感程度](https://zh.moegirl.org.cn/%E5%A5%BD%E6%84%9F%E5%BA%A6)
