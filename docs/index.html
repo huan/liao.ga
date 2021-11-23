@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GA LIAO SYSTEM</title>
+  </head>
+  <body>
+    <canvas id="canvas"></canvas>
+    <video id="pip" muted autoplay></video>
+    <button id="requestpip">Request PiP</button>
+    <script>
+      (async () => {
+        const $ = (id) => document.getElementById(id);
+        const canvas = $("canvas");
+        const pipVideo = $("pip");
+        const requestPiPButton = $("requestpip");
+
+        const ctx = canvas.getContext("2d");
+        pipVideo.srcObject = canvas.captureStream();
+        requestPiPButton.onclick = () => pipVideo.requestPictureInPicture();
+
+        const animateTime = () => {
+          ctx.fillStyle = "white";
+          ctx.fillRect(0, 0, canvas.width, canvas.height);
+          ctx.fillStyle = "black";
+          ctx.fillText('请稍候，系统绑定中…… ' + new Date().toISOString(), 10, 10);
+          requestAnimationFrame(animateTime);
+        };
+        animateTime();
+      })();
+    </script>
+  </body>
+</html>
