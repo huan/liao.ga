@@ -24,7 +24,7 @@
           ctx.fillStyle = "white";
           ctx.fillRect(0, 0, canvas.width, canvas.height);
           ctx.fillStyle = "black";
-          ctx.fillText('请稍候，系统绑定中…… ' + new Date().toISOString(), 10, 10);
+          ctx.fillText('请稍候，系统绑定中……\n' + new Date().toISOString(), 10, 10);
           requestAnimationFrame(animateTime);
         };
         animateTime();
