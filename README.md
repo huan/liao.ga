@@ -24,3 +24,7 @@
 ## [GalGame](https://baike.baidu.com/item/GalGame/423361)
 
 - [好感度是游戏中常见的属性，表示该角色对玩家操纵角色的好感程度](https://zh.moegirl.org.cn/%E5%A5%BD%E6%84%9F%E5%BA%A6)
+
+## Paper
+
+- [Language left behind on social media exposes the emotional and cognitive costs of a romantic breakup](https://mp.weixin.qq.com/s/FtQeFX1E1nFE51ZxsC5G7A)
