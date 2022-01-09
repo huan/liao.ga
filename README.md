@@ -27,4 +27,4 @@
 
 ## Paper
 
-- [Language left behind on social media exposes the emotional and cognitive costs of a romantic breakup](https://mp.weixin.qq.com/s/FtQeFX1E1nFE51ZxsC5G7A)
+- [Language left behind on social media exposes the emotional and cognitive costs of a romantic breakup, Sarah Seraj et. al., February 16, 2021, PNAS](https://mp.weixin.qq.com/s/FtQeFX1E1nFE51ZxsC5G7A)
