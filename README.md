@@ -24,6 +24,7 @@
 ## [GalGame](https://baike.baidu.com/item/GalGame/423361)
 
 - [好感度是游戏中常见的属性，表示该角色对玩家操纵角色的好感程度](https://zh.moegirl.org.cn/%E5%A5%BD%E6%84%9F%E5%BA%A6)
+- [Galgame 选择最全目录](https://www.zhihu.com/roundtable/galgamexuanzezuiquan/)
 
 ## Paper
 
