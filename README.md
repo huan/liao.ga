@@ -30,3 +30,7 @@
 ## Paper
 
 - [Language left behind on social media exposes the emotional and cognitive costs of a romantic breakup, Sarah Seraj et. al., February 16, 2021, PNAS](https://mp.weixin.qq.com/s/FtQeFX1E1nFE51ZxsC5G7A)
+
+## 系统文
+
+系统流小说就是系统文，指的是里面的小说主角是带着系统（类似网络游戏里的服务器，帮助主角升级修炼）穿越到异世界的一类小说。2主角在现实生活中可以像玩游戏一样接到某个“系统”的任务和奖励。任务成功了是有奖励，任务失败了也会有惩罚。系统文里面主角在最初被赋予了一个系统，主角可以根据这个系统获得各种便利，各种资源，如果升级就有奖励且获得跟大权限，从而走向成功。([系统小说排行榜前十名有哪些](https://www.ltncg.com/info/主角有系统的网游小说.html))
