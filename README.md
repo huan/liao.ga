@@ -20,6 +20,7 @@
 ## Projects
 
 - [拯救直男聊天，有它就够了！ - 科大讯飞创意赛](https://m.bilibili.com/video/BV1no4y1D7Hu)
+- [她们想用一个游戏，教会人们远离PUA](https://tech.sina.com.cn/csj/2019-06-05/doc-ihvhiqay3648966.shtml)
 
 ## [GalGame](https://baike.baidu.com/item/GalGame/423361)
 
