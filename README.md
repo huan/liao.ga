@@ -31,6 +31,7 @@
 ## Paper
 
 - [Language left behind on social media exposes the emotional and cognitive costs of a romantic breakup, Sarah Seraj et. al., February 16, 2021, PNAS](https://mp.weixin.qq.com/s/FtQeFX1E1nFE51ZxsC5G7A)
+- [Visual Question Rewriting for Increasing Response Rate](https://dl.acm.org/doi/abs/10.1145/3404835.3463114)
 
 ## 系统文
 
