@@ -28,11 +28,12 @@
 - [好感度是游戏中常见的属性，表示该角色对玩家操纵角色的好感程度](https://zh.moegirl.org.cn/%E5%A5%BD%E6%84%9F%E5%BA%A6)
 - [Galgame 选择最全目录](https://www.zhihu.com/roundtable/galgamexuanzezuiquan/)
 
-## Paper
+## Paper & Report
 
 - [Language left behind on social media exposes the emotional and cognitive costs of a romantic breakup, Sarah Seraj et. al., February 16, 2021, PNAS](https://mp.weixin.qq.com/s/FtQeFX1E1nFE51ZxsC5G7A)
 - [Visual Question Rewriting for Increasing Response Rate, Jiayi Wei, Yi Zhang, et., al., July 2021, SIGIR](https://dl.acm.org/doi/abs/10.1145/3404835.3463114)
-
+- [McAfee’s Modern Love Research Report, Feb 2023, McAfee](https://www.mcafee.com/content/dam/consumer/en-us/docs/reports/rp-mcafee-modernlove-report.pdf)
+- 
 ## 系统文
 
 系统文又名系统流小说，指的是里面的小说主角是带着系统（类似网络游戏里的服务器，帮助主角升级修炼）穿越到异世界的一类小说。2主角在现实生活中可以像玩游戏一样接到某个“系统”的任务和奖励。任务成功了是有奖励，任务失败了也会有惩罚。系统文里面主角在最初被赋予了一个系统，主角可以根据这个系统获得各种便利，各种资源，如果升级就有奖励且获得跟大权限，从而走向成功。([系统小说排行榜前十名有哪些](https://www.ltncg.com/info/主角有系统的网游小说.html))
